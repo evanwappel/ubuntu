@@ -1,2 +1,10 @@
 #!/bin/bash
-sudo apt-get update
+clear
+echo "starting script..."
+
+
+
+echo "update ubuntu here..."
+
+
+echo "finished script"
